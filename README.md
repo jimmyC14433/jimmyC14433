@@ -11,7 +11,7 @@
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yimy alejandro cristancho arias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yimy alejandro cristancho arias" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yimy-alejandro-cristancho-arias-a59016183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yimy alejandro cristancho arias" height="30" width="40" /></a>
 <a href="https://fb.com/yimy cristancho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yimy cristancho" height="30" width="40" /></a>
 <a href="https://instagram.com/yimy_cristancho12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yimy_cristancho12" height="30" width="40" /></a>
 </p><br>
