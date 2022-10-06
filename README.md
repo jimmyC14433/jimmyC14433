@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Yimy Cristancho</h1>
+<h1 align="center">Hola 👋, Soy Yimy C</h1>
 <h3 align="center">Soy un apacionado de las TIC👨‍💻, me encanta explorar nuevas tecnologías y aprovecharlas para la resolución de problemas</h3>
 
 
