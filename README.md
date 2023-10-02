@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Yimy C</h1>
-<h3 align="center">Soy un apacionado de las TIC👨‍💻, me encanta explorar nuevas tecnologías y aprovecharlas para la resolución de problemas</h3>
+<h3 align="center">Ingeniero de Sistemas con experiencia en Seguridad informática, Ciberseguridad y Desarrollo de Software. Profesional proactivo, con principios y valores claros, reconocido por su buen desempeño y destreza en el cumplimiento de las funciones y roles que ha desempeñado. Posee una amplia experiencia en seguridad informática, ciberseguridad y desarrollo de software, con un enfoque en seguridad ofensiva y defensiva. Es un profesional autodidacta con una sólida capacidad de análisis y resolución de problemas.👨‍💻</h3>
 
 
 
